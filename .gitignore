@@ -1,0 +1,5 @@
+*.log
+/static/folder/
+folder/
+static
+db.accdb
